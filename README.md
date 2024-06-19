@@ -13,7 +13,8 @@ Usually, people plan their trip so that they can make the best use of their time
 In this program, we can see the weather forecast. For example, if you plan to travel to another country, you can use this app to see the weather there. The program analyzes itself every time. In other words, it recalculates the weather forecast.
 
 ### UML diagram
--[UML diagram of the model](https://github.com/MohammadShahsavarii/MDS-proiect/blob/main/overall-architecture.jpg)
+UML diagram of the model
+![overall-architecture](https://github.com/MohammadShahsavarii/MDS-proiect/assets/127997195/3770ce14-8572-4751-9879-d75079f1239e)
 
 ### How does the application works?
 Application receives the requested via /v1/api/open-weather/{city} url with {city} path variables
